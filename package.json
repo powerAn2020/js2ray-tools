@@ -1,0 +1,39 @@
+{
+  "name": "js2ray-tools",
+  "version": "1.0.3",
+  "description": "The v2ray tools protocols , Modify from https://github.com/seezaara/js2ray-tools",
+  "main": "index.js",
+  "bin": "index.js",
+  "keywords": [
+    "vmess",
+    "nodejs",
+    "v2ray",
+    "vmess",
+    "vless",
+    "trojan",
+    "shadowSocks",
+    "socks5",
+    "xray",
+    "x-ui",
+    "vpn",
+    "proxy",
+    "protocol"
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "powerAn2020",
+  "license": "MIT",
+  "homepage": "https://github.com/powerAn2020/js2ray-tools",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/powerAn2020/js2ray-tools.git"
+  },
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "js-base64": "^3.7.7",
+    "querystring": "^0.2.1",
+    "readline": "^1.3.0",
+    "url-parse": "^1.5.10"
+  }
+}

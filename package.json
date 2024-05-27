@@ -1,6 +1,6 @@
 {
   "name": "js2ray-tools-modify",
-  "version": "1.0.3",
+  "version": "1.0.7",
   "description": "The v2ray tools protocols , Modify from https://github.com/seezaara/js2ray-tools",
   "main": "index.js",
   "bin": "index.js",
